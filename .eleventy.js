@@ -142,8 +142,8 @@ module.exports = eleventyConfig => {
   // 	--------------------- Custom collections -----------------------
   eleventyConfig.addCollection('projects_en', getProjectsEN);
   eleventyConfig.addCollection('blog_en', getBlogsEN);
-  eleventyConfig.addCollection('projects_es', getProjectsES);
-  eleventyConfig.addCollection('blog_es', getBlogsES);
+  eleventyConfig.addCollection('projects_fr', getProjectsFR);
+  eleventyConfig.addCollection('blog_fr', getBlogsFR);
   eleventyConfig.addCollection('projects_de', getProjectsDE);
   eleventyConfig.addCollection('blog_de', getBlogsDE);
 
