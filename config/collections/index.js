@@ -11,14 +11,14 @@ const getBlogsEN = collection => {
 };
 
 // projects spanish
-const getProjectsES = collection => {
-  const projects = collection.getFilteredByGlob('./src/es/projects/*.md');
+const getProjectsFR = collection => {
+  const projects = collection.getFilteredByGlob('./src/fr/projects/*.md');
   return projects.reverse();
 };
 
 // blog spanish
-const getBlogsES = collection => {
-  const blogs = collection.getFilteredByGlob('./src/es/blog/*.md');
+const getBlogsFR = collection => {
+  const blogs = collection.getFilteredByGlob('./src/fr/blog/*.md');
   return blogs.reverse();
 };
 
@@ -47,8 +47,8 @@ const getBlogsAllLang = collection => {
 module.exports = {
   getProjectsEN,
   getBlogsEN,
-  getProjectsES,
-  getBlogsES,
+  getProjectsFR,
+  getBlogsFR,
   getProjectsDE,
   getBlogsDE,
   getBlogsAllFullLang,
