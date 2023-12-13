@@ -109,7 +109,7 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('toHtml', toHtml);
   eleventyConfig.addFilter('toIsoString', toISOString);
   eleventyConfig.addFilter('formatDate', formatDate);
-  eleventyConfig.addFilter('formatDateFR', formatDateFr);
+  eleventyConfig.addFilter('formatDateFR', formatDateFR);
   eleventyConfig.addFilter('formatDateDE', formatDateDE);
   eleventyConfig.addFilter('toAbsoluteUrl', toAbsoluteUrl);
   eleventyConfig.addFilter('stripHtml', stripHtml);
