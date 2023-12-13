@@ -41,10 +41,10 @@ module.exports = {
       localeCode: 'en_EN'
     },
     {
-      label: 'ES',
-      code: 'es',
-      long: 'Español',
-      localeCode: 'es_ES'
+      label: 'FR',
+      code: 'fr',
+      long: 'Français',
+      localeCode: 'fr_FR'
     },
     {
       label: 'DE',
@@ -89,10 +89,10 @@ module.exports = {
     }
   },
 
-  es: {
-    localeCode: 'es_ES',
-    long: 'Español',
-    siteName: 'Lene Saile',
+  fr: {
+    localeCode: 'fr_FR',
+    long: 'Français',
+    siteName: 'Jekife',
     siteDescription:
       'Desarrolladora Frontend en Madrid. Me gusta trabajar con Jamstack, Javascript vainilla y CSS moderno.  Es muy importante que las webs sean rápidas y accesibles.',
     back: 'Atrás',
