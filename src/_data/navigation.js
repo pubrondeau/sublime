@@ -30,7 +30,7 @@ module.exports = {
     ]
   },
 
-  es: {
+  fr: {
     top: [
       {
         text: 'Sobre mí',
