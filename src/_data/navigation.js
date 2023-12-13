@@ -34,29 +34,29 @@ module.exports = {
     top: [
       {
         text: 'Sobre mí',
-        url: '/es/sobre/'
+        url: '/fr/sobre/'
       },
       {
         text: 'Lo que hago',
-        url: '/es/servicios/'
+        url: '/fr/servicios/'
       },
       {
         text: 'Proyectos',
-        url: '/es/proyectos/'
+        url: '/fr/proyectos/'
       },
       {
         text: 'Blog',
-        url: '/es/blog/'
+        url: '/fr/blog/'
       }
     ],
     bottom: [
       {
         text: 'Aviso legal',
-        url: '/es/aviso-legal/'
+        url: '/fr/aviso-legal/'
       },
       {
         text: 'Política de privacidad',
-        url: '/es/privacidad/'
+        url: '/fr/privacidad/'
       }
     ]
   },
