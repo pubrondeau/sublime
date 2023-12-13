@@ -9,10 +9,10 @@ conditions = {Language = ["de"]}
 
 [[redirects]]
 from = "/"
-to = "/es"
+to = "/fr"
 status = 302
 force = true
-conditions = {Language = ["es"]}
+conditions = {Language = ["fr"]}
 
 [[redirects]]
 from = "/"
@@ -28,8 +28,8 @@ force = true
   status = 404
 
 [[redirects]]
-  from = "/es/*"
-  to = "/es/404"
+  from = "/fr/*"
+  to = "/fr/404"
   status = 404
 
 [[redirects]]

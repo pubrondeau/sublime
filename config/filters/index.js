@@ -1,7 +1,7 @@
 const lodash = require('lodash');
 const dayjs = require('dayjs');
 const locale_de = require('dayjs/locale/de');
-const locale_es = require('dayjs/locale/es');
+const locale_fr = require('dayjs/locale/fr');
 const CleanCSS = require('clean-css');
 const markdownLib = require('../plugins/markdown');
 const site = require('../../src/_data/meta');
@@ -99,7 +99,7 @@ const readingTime = text => {
 /** Formats a date using dayjs's conventions: https://day.js.org/docs/en/display/format, https://day.js.org/docs/en/i18n/loading-into-nodejs */
 // TODO: find a less verbose way to do this
 const formatDate = (date, format) => dayjs(date).format(format);
-const formatDateES = (date, format) => dayjs(date).locale(locale_es).format(format);
+const formatDateFR = (date, format) => dayjs(date).locale(locale_fr).format(format);
 const formatDateDE = (date, format) => dayjs(date).locale(locale_de).format(format);
 
 const minifyCss = code => new CleanCSS({}).minify(code).styles;
@@ -214,7 +214,7 @@ module.exports = {
   toISOString,
   readingTime,
   formatDate,
-  formatDateES,
+  formatDateFR,
   formatDateDE,
   minifyCss,
   minifyJs,
