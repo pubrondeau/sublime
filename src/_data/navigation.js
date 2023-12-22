@@ -33,19 +33,19 @@ module.exports = {
   fr: {
     top: [
       {
-        text: 'Sobre mí',
+        text: 'pladenn',
         url: '/fr/sobre/'
       },
       {
-        text: 'Lo que hago',
+        text: 'machine',
         url: '/fr/servicios/'
       },
       {
-        text: 'Proyectos',
+        text: 'services',
         url: '/fr/proyectos/'
       },
       {
-        text: 'Blog',
+        text: 'Contact',
         url: '/fr/blog/'
       }
     ],
