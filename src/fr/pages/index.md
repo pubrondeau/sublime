@@ -1,14 +1,14 @@
 ---
-title: Lene Saile
+title: Kladenn
 seo:
-  title: Lene Saile, desarrolladora y diseñadora en Madrid
+  title: Kladenn, la machine à café bretonne
 permalink: /{{ locale }}/index.html
 key: 'home'
 description: Soy una desarrolladora y diseñadora nacida en Berlín, viviendo en Madrid. Llevo creando para la web profesionalmente desde 2008.
 layout: home
 hero:
-  title: Hago páginas web a medida altamente optimizadas.
-  intro: Llevo más de 15 años trabajando como desarrolladora web. Como autónoma y por encargo de agencias he desarrollado y diseñado innumerables páginas web personalizadas para pequeñas y medianas empresas, autónomos, particulares, asociaciones y fundaciones. Trabajo principalmente con la arquitectura Jamstack.
+  title: Kladenn cherche un investisseur pour finaliser et commercialiser la machine !
+  intro:Vous recherchez une machine de production de nouvelle génération pour votre production de café ? Vous voulez un fournisseur proche de ses clients ? Vous avez besoin d'une analyse et d'un support technique compétent ?Vous êtes au bon endroit
   image: './src/assets/images/lene2022.jpg'
   alt: 'Lene sentada frente a su escritorio, sonriendo'
   hi: 'Hola, soy yo.'
