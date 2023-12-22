@@ -8,7 +8,9 @@ description: Soy una desarrolladora y diseñadora nacida en Berlín, viviendo en
 layout: home
 hero:
   title: Kladenn cherche un investisseur pour finaliser et commercialiser la machine !
-  intro: Vous recherchez une machine de production de nouvelle génération pour votre production de café ? Vous voulez un fournisseur proche de ses clients ? Vous avez besoin d'une analyse et d'un support technique compétent ? Vous êtes au bon endroit
+  intro: Vous recherchez une machine de production de nouvelle génération pour votre production de café ? 
+  Vous voulez un fournisseur proche de ses clients ?
+  Vous avez besoin d'une analyse et d'un support technique compétent ? Vous êtes au bon endroit
   image: './src/assets/images/lene2022.jpg'
   alt: 'Lene sentada frente a su escritorio, sonriendo'
   hi: 'Hola, soy yo.'
