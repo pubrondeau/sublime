@@ -33,7 +33,7 @@ module.exports = {
   fr: {
     top: [
       {
-        text: 'pladenn',
+        text: 'Kladenn',
         url: '/fr/sobre/'
       },
       {
