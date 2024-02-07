@@ -1,19 +1,19 @@
 ---
 title: Kladenn
 seo:
-  title: Kladenn, la machine à café bretonne
+  title: U, artisan menuisier
 permalink: /{{ locale }}/index.html
 key: 'home'
 description: Soy una desarrolladora y diseñadora nacida en Berlín, viviendo en Madrid. Llevo creando para la web profesionalmente desde 2008.
 layout: home
 hero:
   title: Votre menuisier en Finistère nord
-  intro: La Menuiserie Uguen réalise des menuiseries en bois, mixtes bois-aluminium, composite, PVC, sur-mesure, dans le respect du patrimoine et avec des matières de haute qualité.
+  intro: La Menuiserie U réalise des menuiseries en bois, mixtes bois-aluminium, composite, PVC, sur-mesure, dans le respect du patrimoine et avec des matières de haute qualité.
   image: './src/assets/images/lene2022.jpg'
   alt: 'Lene sentada frente a su escritorio, sonriendo'
   hi: 'Hola, soy yo.'
 projects:
-  title: ¡Mira algunas de las páginas web que he hecho!
+  title: Votre menuisier à La / Ls / Ct Ml en Finistère
   teaser: 'Me apasiona crear experiencias web personalizadas que sean rápidas, seguras y accesibles, además de respetuosas con el medio ambiente y la privacidad. '
   goal: '/es/proyectos/'
   button: 'Proyectos'
@@ -28,13 +28,17 @@ cta:
   lead: '¡Envíame un correo a [hola@lenesaile.com](mailto:hola@lenesaile.com) y cuéntame tu proyecto, oportunidades o lo que tengas en mente! Siempre estoy dispuesto a charlar.'
 ---
 
-Me aseguro de que un sitio web sea ==rápido y cargue sólo lo necesario==. El visitante debe poder orientarse inmediatamente y el sitio web debe ser ==accesible y utilizable para todas las personas== independientemente de cualquier discapacidad. Intento ser una aprendiz humilde en este campo y ajustao mis conocimientos a diario.
+Certifiée QUALIBAT RGE (Reconnu Garant de l'Environnement), vous pourrez bénéficier des subventions et des aides de l’État pour réaliser vos travaux d'économies d'énergie !
+Menuiserie intérieure, agencements / aménagement / neuf / rénovation
 
-No creo sitios web basados en plantillas preprogramadas y no utilizo constructores visuales de sitios web. Todos los sitios web se diseñan y desarrollan desde cero para que funcionen exactamente como yo y mis clientes los imaginamos.
+Monsieur U est à votre service pour la fabrication et la pose d'un dressing, la création d'une mezzanine, d'un garde-corps, d'un nouveau parquet ou d'une nouvelle cuisine, la conception ou la rénovation de votre salle de bains.
+Menuiserie extérieure, ouvertures / fermetures ...
 
-Este enfoque tiene varias ventajas:
+Il construit aussi de belles fenêtres, portes et portails. Il travaille du bois et des matériaux de qualité, dans le respect de l'environnement.
 
-1. Ninguna imagen es demasiado grande, ningún código es demasiado, y el sitio web funciona sin errores y con rapidez.
-2. Soy independiente de terceros, reacciono a los problemas y a las actualizaciones necesarias yo mismo.
-3. Las páginas web de mis clientes consiguen un muy buen posicionamiento en los buscadores.
-4. Casi todas las ideas se pueden cumplir en términos de forma, estructura y función.
+Des travaux de menuiserie particuliers ?
+
+Pour nous, rien n'est impossible ! Vos désirs deviennent réalité et nos devis sont gratuits et personnalisés : appelez-nous directement au : 02 XX XX XX XX2 ou 06 XX XX XX XX	pour convenir d'un rendez-vous et d'une étude personnalisée de vos besoins et attentes en matière de menuiserie.
+Confiance, proximité et qualité artisanale autour de L.
+
+La Menuiserie U intervient sur L. et ses communes avoisinantes : Ls, Tu, Ct Ml, Pn, Pn, Pu...
