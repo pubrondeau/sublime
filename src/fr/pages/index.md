@@ -7,8 +7,8 @@ key: 'home'
 description: Soy una desarrolladora y diseñadora nacida en Berlín, viviendo en Madrid. Llevo creando para la web profesionalmente desde 2008.
 layout: home
 hero:
-  title: Kladenn cherche un investisseur pour finaliser et commercialiser la machine !
-  intro: Vous recherchez une machine de production de nouvelle génération pour votre production de café ?  Vous voulez un fournisseur proche de ses clients ?  Vous avez besoin d'une analyse et d'un support technique compétent ? Vous êtes au bon endroit
+  title: Votre menuisier en Finistère nord
+  intro: La Menuiserie Uguen réalise des menuiseries en bois, mixtes bois-aluminium, composite, PVC, sur-mesure, dans le respect du patrimoine et avec des matières de haute qualité.
   image: './src/assets/images/lene2022.jpg'
   alt: 'Lene sentada frente a su escritorio, sonriendo'
   hi: 'Hola, soy yo.'
